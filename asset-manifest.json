@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/amine-232/app-react/static/css/main.004f974b.css",
-    "main.js": "/amine-232/app-react/static/js/main.c0cac01d.js",
+    "main.js": "/amine-232/app-react/static/js/main.08e06487.js",
     "index.html": "/amine-232/app-react/index.html",
     "main.004f974b.css.map": "/amine-232/app-react/static/css/main.004f974b.css.map",
-    "main.c0cac01d.js.map": "/amine-232/app-react/static/js/main.c0cac01d.js.map"
+    "main.08e06487.js.map": "/amine-232/app-react/static/js/main.08e06487.js.map"
   },
   "entrypoints": [
     "static/css/main.004f974b.css",
-    "static/js/main.c0cac01d.js"
+    "static/js/main.08e06487.js"
   ]
 }
